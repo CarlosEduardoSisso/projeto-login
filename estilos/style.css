@@ -68,3 +68,8 @@ section#login > div#formulario h1 {
 section#login > div#formulario p {
     font-size: 0.8em;
 }
+
+span.material-icons {
+    color: #4B2F09;
+    padding: 10px 10px 0px 10px;
+}
